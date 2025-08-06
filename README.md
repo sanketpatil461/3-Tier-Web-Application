@@ -1,4 +1,4 @@
-[LINK](https://github.com/sanketpatil461/3-Tier-Web-Application.git)
+[GitHub](https://github.com/sanketpatil461/3-Tier-Web-Application.git)
 # 3-Tier-VPC-AWS
 This is a repo to build a 3-tier-WebApp in VPC on AWS
 
@@ -430,5 +430,6 @@ This guide is available as an open resource. Feel free to use, share, and contri
 Remember, while this guide aims to be comprehensive, AWS services and best practices evolve over time. Always refer to the official AWS documentation for the most up-to-date information.
 
 Happy cloud architecting!
+
 
 
